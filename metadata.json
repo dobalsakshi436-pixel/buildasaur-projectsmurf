@@ -1,0 +1,6 @@
+{
+  "name": "Arogya Setu Mira Bhayandar",
+  "description": "Community health information, vaccination camp booking, medicine scanner, and hospital locator for residents of Mira Bhayandar.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
